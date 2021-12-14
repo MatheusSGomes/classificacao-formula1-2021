@@ -1,2 +1,2 @@
-# Classificação Formula 1 - 2021
+# Classificação Formula 1 - 2021 (React JS)
 ![](./printscreen.png)
